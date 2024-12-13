@@ -457,7 +457,7 @@ input::placeholder {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 80vh;
+    height: 65vh;
   }
 }
 @media (max-width: 1900px) and (min-width: 1600px) {
